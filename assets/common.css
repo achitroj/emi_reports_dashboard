@@ -1,0 +1,20 @@
+#body {
+#  font-family: Open Sans, sans-serif;
+# background-color: #D3D3D3;
+# color: black
+#}
+
+#div {
+#  font-family: Open Sans, sans-serif;
+  # color:red;
+#}
+
+
+.margin_5percent{
+margin:3%
+}
+
+.selected_dashboard_style {
+    font-weight: bold;
+    color: white;
+}
